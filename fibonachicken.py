@@ -26,8 +26,7 @@ def fibonachicken(n):
             a = fibonachicken(나머지)
             print(target)
             result = target[-1] + a
-            if 나머지 ==0:
-                result
+
     print("주문 해야 할 닭의 수는 {} 입니다.".format(result))
     #print("{}명이 {}마리, {}명이 {}마리".format(key, target[-1], 나머지, a))
     return(result)
