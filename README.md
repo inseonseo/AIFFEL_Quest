@@ -5,7 +5,7 @@
 
 ![image](https://github.com/inseonseo/AIFFEL_Quest/assets/50574738/20db47a2-53e2-472f-bb0e-3c07fedc4ffd)
 
-모두의 연구소와 함께하는 인공지능 전문가 양성 과정
+모두의 연구소와 함께하는 데이터 사이언티스트 양성 과정
 
 ## 풀잎 스쿨
 - **Deeplearning CS231n**: 스탠포드의 딥러닝 강좌인 CS231n을 보며 공부
