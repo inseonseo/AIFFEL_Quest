@@ -26,25 +26,25 @@
 ## Module 1: 데이터 사이언스 기초
 - **Week 2: 데이터 사이언스의 첫걸음**
   - 리눅스 기초 및 깃허브 시작하기
-  - 파이썬으로 코딩 시작하기
+  - [파이썬으로 코딩 시작하기](https://github.com/inseonseo/AIFFEL_Quest/tree/main/Quest_0108)
 - **Week 3: 데이터 관리**
   - 데이터베이스와 테이블 기초
   - SQL을 사용하여 데이터베이스 다루기
-  - 데이터 크롤링 및 분류
+  - [데이터 크롤링 및 분류](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0111/News_crawler_project_.ipynb)
 
 ## Module 2: 데이터 전처리 및 분석
 - **Week 4: 데이터 전처리**
-  - 다양한 데이터 전처리 기법
-  - 데이터 클리닝 및 변환
+  - [다양한 데이터 전처리 기법](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0122/Used_car_project.ipynb)
+  - [데이터 클리닝 및 변환](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0123/feature_engineering.ipynb)
 - **Week 5: 기초 통계 및 확률**
-  - 확률, 기술통계 및 추론통계
+  - [확률, 기술통계 및 추론통계](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0130/01_online_retail_mission_aiffel.ipynb)
   - 집단 비교 및 상관, 회귀 분석
 
 ## Module 3: 머신러닝
 - **Week 6-7: 머신러닝 기초**
   - 데이터 시각화 기법
   - 머신러닝 기초 with 파이썬
-  - 전설의 포켓몬 찾아 삼만리 프로젝트
+  - [전설의 포켓몬 찾아 삼만리 프로젝트](https://github.com/inseonseo/AIFFEL_Quest/tree/main/Quest_0219)
 
 ## Module 4: 딥러닝
 - **Week 8-9: 딥러닝과 컴퓨터 비전**
