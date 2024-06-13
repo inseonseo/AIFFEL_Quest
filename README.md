@@ -38,7 +38,7 @@
   - [데이터 클리닝 및 변환](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0123/feature_engineering.ipynb)
 - **Week 5: 기초 통계 및 확률**
   - [확률, 기술통계 및 추론통계](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0130/01_online_retail_mission_aiffel.ipynb)
-  - [집단 비교 및 상관, 회귀 분석]((https://colab.research.google.com/github/inseonseo/AIFFEL_Quest/blob/main/Quest_0202/02_online_retail_mission_aiffel.ipynb))
+  - [집단 비교 및 상관, 회귀 분석](https://colab.research.google.com/github/inseonseo/AIFFEL_Quest/blob/main/Quest_0202/02_online_retail_mission_aiffel.ipynb)
 
 ## Module 3: 머신러닝
 - **Week 6-7: 머신러닝 기초**
