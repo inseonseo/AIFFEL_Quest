@@ -71,6 +71,7 @@
 - **Week 13-16: Canvas 아이펠톤**
   - [코스피 EDA, feature engineering](https://colab.research.google.com/drive/1sa4FgIAdIaJu0f3PGjvb4pKQj7WK4QE-?usp=sharing)
   - [코스피 추세 예측: 최종발표자료](https://drive.google.com/file/d/1zk7wOYfJwLXwLjaYso9o_-7locwKSiQK/view?usp=sharing)
+  - [발표영상](https://www.youtube.com/watch?v=gXeOd4tHCgs)
 
 ## Graduation
 - **Week 17: 취업 세미나 및 졸업식**
