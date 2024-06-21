@@ -7,13 +7,9 @@
 
 모두의 연구소와 함께하는 데이터 사이언티스트 양성 과정
 
-## 풀잎 스쿨
-- **Deeplearning CS231n**: 스탠포드의 딥러닝 강좌인 CS231n을 보며 공부
-- **Coding Master**: 알고리즘 공부하는 풀잎스쿨
-
 ## Nonofficial Study
 - **Statistics Master!**: python 및 Kaggle data project를 통한 통계 기초 및 심화
-
+- **모글모글**: 개발자글쓰기 모임
 ## Curriculum
 # 아이펠 교육 시스템 커리큘럼
 
