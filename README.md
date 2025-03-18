@@ -7,13 +7,9 @@
 
 모두의 연구소와 함께하는 데이터 사이언티스트 양성 과정
 
-## 풀잎 스쿨
-- **Deeplearning CS231n**: 스탠포드의 딥러닝 강좌인 CS231n을 보며 공부
-- **Coding Master**: 알고리즘 공부하는 풀잎스쿨
-
 ## Nonofficial Study
 - **Statistics Master!**: python 및 Kaggle data project를 통한 통계 기초 및 심화
-
+- **모글모글**: 개발자글쓰기 모임
 ## Curriculum
 # 아이펠 교육 시스템 커리큘럼
 
@@ -38,7 +34,7 @@
   - [데이터 클리닝 및 변환](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0123/feature_engineering.ipynb)
 - **Week 5: 기초 통계 및 확률**
   - [확률, 기술통계 및 추론통계](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0130/01_online_retail_mission_aiffel.ipynb)
-  - 집단 비교 및 상관, 회귀 분석
+  - [집단 비교 및 상관, 회귀 분석](https://colab.research.google.com/github/inseonseo/AIFFEL_Quest/blob/main/Quest_0202/02_online_retail_mission_aiffel.ipynb)
 
 ## Module 3: 머신러닝
 - **Week 6-7: 머신러닝 기초**
@@ -49,27 +45,29 @@
 ## Module 4: 딥러닝
 - **Week 8-9: 딥러닝과 컴퓨터 비전**
   - 딥러닝 기초 및 심화
-  - 컴퓨터 비전 시작하기
+  - [컴퓨터 비전 시작하기 - 이미지 탐지 및 분류](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0315/Image%20Classification.ipynb)
 
 ## Module 5: 자연어 처리(NLP)
 - **Week 10: NLP 프로젝트**
-  - 텍스트 데이터 처리 기초
-  - 워드 임베딩 및 감성분석
-  - 대화형 챗봇 만들기
+  - [텍스트 데이터 처리 기초-워드임베딩 : 텍스트 감성분석](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0322/MovieReviewSentimentAnalysis.ipynb)
+  - [트랜스포머 대화형 챗봇 만들기](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0325/Transformer%20chatbot%20PJT.ipynb)
+  - [영화리뷰 데이터셋으로 감성 분석 모델 구축](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0326/HuggingFace%20Custom%20PJT.ipynb)
 
 ## Module 6: 추천 시스템
 - **Week 11: 추천 시스템 체험하기**
   - 추천 시스템 기초 및 실습
+  - [AutoInt+ 영화추천 시스템](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0404/AutoInt%2BMovie.ipynb)
 
 ## Module 7: 데이터분석 실무
 - **Week 12: 실무 데이터분석**
-  - MLOps 맛보기
+  - [MLOps 맛보기](https://github.com/inseonseo/AIFFEL_Quest/blob/main/Quest_0404/CustomTrainerVietClassifier.ipynb)
   - Jupyter를 넘어서서
 
 ## Capstone Project
 - **Week 13-16: Canvas 아이펠톤**
-  - 데이터 분석 및 AI 프로젝트 실습
-  - 팀 프로젝트 및 개인 프로젝트 진행
+  - [코스피 EDA, feature engineering](https://colab.research.google.com/drive/1sa4FgIAdIaJu0f3PGjvb4pKQj7WK4QE-?usp=sharing)
+  - [코스피 추세 예측: 최종발표자료](https://drive.google.com/file/d/1zk7wOYfJwLXwLjaYso9o_-7locwKSiQK/view?usp=sharing)
+  - [발표영상](https://www.youtube.com/watch?v=gXeOd4tHCgs)
 
 ## Graduation
 - **Week 17: 취업 세미나 및 졸업식**
